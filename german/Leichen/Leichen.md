@@ -6,8 +6,13 @@ werfen die beiden Leichen aus dem Boot.
 Sie schnaufen einmal kräftig durch während ihnen tausend Gedanken durch den Kopf gehen...
 
 Schnell, aber unbemerkt versuchen Sie an Land zu kommen, aber es scheint nicht näher zu kommen....
+Stattdessen sehe ich immer wieder einen kleinen Clownfisch-Piranha-Mischling an mir vorbeischwimmen
+und genüsslich an meinen Sachen nagen. 
 
 Was tun Sie?
+
+Ich suche verzweifelt (aber gründlich und systematisch) nach Anzeichen, die darauf hindeuten,
+dass ich mich in einer [Simulation](Simulation/Simulation.md) befinde.
 
 Ich halte nach etwas [Ausschau](Ausschau/Ausschau.md), an dass ich mich klammern könnte.
 

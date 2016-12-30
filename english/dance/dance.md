@@ -1,4 +1,6 @@
 
+[Argentine tango](../tango/tango.md)
+
 ballet:
 
 You dance frantically until the ground begins to shake and 
@@ -35,6 +37,8 @@ it is a dancing cat
 [Bake a cake?](../dance/bake-a-cake/bake-a-cake.md)
 
 [Want coffee?](../coffee/coffee.md)
+
+[Make hot chocolate?](../hot-chocolate-time/makehotchocolate.md)
 
 [Want to read a story](../myStory/mayank.md)
 
